@@ -267,6 +267,18 @@
     "debugExceptionWidget.background": "#333333",
     "debugExceptionWidget.border": "#474747"
   },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "string.quoted.double.json"
+        ],
+        "settings": {
+          "foreground": "#ae92ef"
+        }
+      }
+    ]
+  },
   "tokenColors": [
     {
         "scope": [
@@ -1089,7 +1101,7 @@
             "support.constant.property-value.css"
         ],
         "settings": {
-            "foreground": "#8BE9FD"
+            "foreground": "#ae92ef"
         }
     },
     {
@@ -1186,7 +1198,7 @@
             "meta.function-call.js"
         ],
         "settings": {
-            "foreground": "#8BE9FD"
+            "foreground": "#ae92ef"
         }
     },
     {
@@ -1263,7 +1275,7 @@
             "punctuation.definition.link.restructuredtext"
         ],
         "settings": {
-            "foreground": "#8BE9FD"
+            "foreground": "#ae92ef"
         }
     },
     {
@@ -1549,7 +1561,7 @@
             "support.other.escape.special.regexp"
         ],
         "settings": {
-            "foreground": "#ae92ef"
+            "foreground": "#8BE9FD"
         }
     },
     {
@@ -1559,7 +1571,7 @@
             "keyword.operator.lookbehind"
         ],
         "settings": {
-            "foreground": "#FF5555"
+            "foreground": "#8BE9FD"
         }
     },
     {
@@ -1985,7 +1997,7 @@
     }
 ],
 "background": {
-    "image": "./icon.png",
+    "image": "../icon.png",
     "repeat": "no-repeat",
     "size": "cover",
     "alt": "Rocket+ Official Icon"
