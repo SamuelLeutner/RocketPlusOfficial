@@ -36,7 +36,7 @@ All instructions can be found at [INSTALL.md](https://github.com/SamuelLeutner/g
 
 ## Team
 
-| [![Samuel Leutner](https://github.com/samuelleutner.png?size=100)](https://github.com/samuelleutner) |
+| [![Samuel Leutner](https://github.com/samuelleutner.png?size=100)](https://github.com/samuelleutner)
 | [Samuel Leutner](https://github.com/SamuelLeutner/)|
 
 ## License
