@@ -1983,5 +1983,11 @@
             "foreground": "#50FA7B"
         }
     }
-]
+],
+"background": {
+    "image": "./icon.png",
+    "repeat": "no-repeat",
+    "size": "cover",
+    "alt": "Rocket+ Official Icon"
+  }
 }
