@@ -26,7 +26,7 @@
 
 ## Preview Theme
 <p align="center">
-  <!-- <img alt="Rocket+ Official screnshoot for Visual Studio Code" src=""> -->
+  <img alt="Rocket+ Official screnshoot for Visual Studio Code" src="https://github.com/SamuelLeutner/getrocketplus/assets/103613009/7f8cbbef-1bfb-43d5-8d50-e794ab2363c1">
 </p>
 
 ## Install
