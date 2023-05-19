@@ -2,9 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="
-  // Screenshot
-  " alt="Rocket+ Official" width="100">
+  <!-- <img src="" alt="Rocket+ Official" width="100"> -->
   <br>
   Rocket+ Official <a href="https://code.visualstudio.com/">Visual Studio Code</a>
   <br>
@@ -27,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img alt="Rocket+ Official screnshoot for Visual Studio Code" src="">
+  <!-- <img alt="Rocket+ Official screnshoot for Visual Studio Code" src=""> -->
 </p>
 
 ## Install
