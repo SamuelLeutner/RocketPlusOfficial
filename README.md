@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/SamuelLeutner/getrocketplus/assets/103613009/e4e5f336-eafe-4596-ac9d-bf7b3901867a" alt="If Rocket+ Official" width="100">
+  <img src="https://github.com/SamuelLeutner/getrocketplus/assets/103613009/e4e5f336-eafe-4596-ac9d-bf7b3901867a" alt="If Rocket+ Official" width="600">
   <br>
   Rocket+ Official <a href="https://code.visualstudio.com/">Visual Studio Code</a>
   <br>
