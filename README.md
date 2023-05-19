@@ -32,15 +32,13 @@
 
 ## Install
 
-All instructions can be found at [INSTALL.md](https://github.com/SamuelLeutner/RocketPlusOfficial/blob/main/INSTALL.MD).
+All instructions can be found at [INSTALL.md](https://github.com/SamuelLeutner/getrocketplus/blob/main/INSTALL.MD).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/SamuelLeutner/RocketPlusOfficial).
-
-| [![Samuel Leutner](https://github.com/samuelleutner.png?size=100)](https://github.com/samuelleutner) | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Samuel Leutner](https://github.com/SamuelLeutner/)                                             |
+| [![Samuel Leutner](https://github.com/samuelleutner.png?size=100)](https://github.com/samuelleutner) |
+| [Samuel Leutner](https://github.com/SamuelLeutner/)|
 
 ## License
 
-[MIT License](https://github.com/SamuelLeutner/RocketPlusOfficial/blob/main/LICENSE)
+[MIT License](https://github.com/SamuelLeutner/getrocketplus/blob/main/LICENSE)
