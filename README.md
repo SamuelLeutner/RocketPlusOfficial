@@ -2,9 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/SamuelLeutner/getrocketplus/assets/103613009/e4e5f336-eafe-4596-ac9d-bf7b3901867a" alt="If Rocket+ Official" width="600">
-  <br>
-  Rocket+ Official <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+  <img src="https://github.com/SamuelLeutner/getrocketplus/assets/103613009/95d683cc-1f78-46ed-ac3d-0330e468876a" alt="If Rocket Dark+ Official" width="700">
   <br>
 </h1>
 
@@ -26,7 +24,7 @@
 
 ## Preview Theme
 <p align="center">
-  <img alt="Rocket+ Official screnshoot for Visual Studio Code" src="https://github.com/SamuelLeutner/getrocketplus/assets/103613009/7f8cbbef-1bfb-43d5-8d50-e794ab2363c1">
+  <img alt="Rocket Dark+ Official screnshoot for Visual Studio Code" src="https://github.com/SamuelLeutner/getrocketplus/assets/103613009/7f8cbbef-1bfb-43d5-8d50-e794ab2363c1">
 </p>
 
 ## Install
