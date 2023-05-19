@@ -17,6 +17,7 @@
     }
   },
   "tokenColors": [
+    
     {
         "scope": [
             "emphasis"
@@ -320,8 +321,7 @@
         "name": "JSDoc-style keywords",
         "scope": [
             "comment keyword.codetag.notation",
-            "comment.block.documentation keyword",
-            "comment.block.documentation storage.type.class"
+            "comment.block.documentation keyword"
         ],
         "settings": {
             "foreground": "#FF79C6"
@@ -442,6 +442,14 @@
         }
     },
     {
+        "scope": [
+            "keyword.other.template"
+        ],
+        "settings": {
+            "foreground": "#ffab70"
+        }
+    },
+    {
         "name": "Function parameters",
         "scope": [
             "entity.name.variable.parameter",
@@ -453,7 +461,7 @@
         ],
         "settings": {
             "fontStyle": "italic",
-            "foreground": "#E89E64"
+            "foreground": "#f97583"
         }
     },
     {
@@ -585,7 +593,6 @@
             "punctuation.definition.type.end",
             "punctuation.section.scope.begin",
             "punctuation.section.scope.end",
-            "storage.type.generic.java",
             "string.template meta.brace",
             "string.template punctuation.accessor"
         ],
@@ -645,16 +652,29 @@
         }
     },
     {
-        "name": "Storage",
+        "name": "Storage Types",
         "scope": [
-            "storage",
-            "meta.implementation storage.type.objc",
-            "meta.interface-or-protocol storage.type.objc",
-            "source.groovy storage.type.def"
+            "storage.type.function",
+            "entity.name.function.declaration"
         ],
         "settings": {
-            "fontStyle": "regular",
-            "foreground": "#FF79C6"
+            "fontStyle": "italic",
+            "foreground": "#8BE9FD"
+        }
+    },
+    {
+        "scope": [
+            "keyword",
+            "storage.modifier",
+            "storage.type",
+            "storage.control.clojure",
+            "entity.name.function.clojure",
+            "support.function.node",
+            "punctuation.separator.key-value",
+            "punctuation.definition.template-expression"
+        ],
+        "settings": {
+            "foreground": "#f97583"
         }
     },
     {
@@ -665,20 +685,8 @@
             "keyword.type.cs",
             "meta.protocol-list.objc",
             "meta.return-type.objc",
-            "source.go storage.type",
-            "source.groovy storage.type",
-            "source.java storage.type",
             "source.powershell entity.other.attribute-name",
-            "storage.class.std.rust",
-            "storage.type.attribute.swift",
-            "storage.type.c",
-            "storage.type.core.rust",
-            "storage.type.cs",
-            "storage.type.groovy",
-            "storage.type.objc",
-            "storage.type.php",
-            "storage.type.haskell",
-            "storage.type.ocaml"
+            "storage.class.std.rust"
         ],
         "settings": {
             "fontStyle": "italic",
