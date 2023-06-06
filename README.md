@@ -24,7 +24,7 @@
 
 ## Preview Theme
 <p align="center">
-  <img alt="Rocket Dark+ Official screnshoot for Visual Studio Code" src="https://github.com/SamuelLeutner/DevLinks/assets/103613009/44beb04a-99b1-49b0-a608-7d5fcd6175be">
+  <img alt="Rocket Dark+ Official screnshoot for Visual Studio Code" src="https://github.com/SamuelLeutner/getrocketplus/assets/103613009/2b798b92-5432-4b68-8da8-6c1047d8ffbc">
 </p>
 
 ## Install
