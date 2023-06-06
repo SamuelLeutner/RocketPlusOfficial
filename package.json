@@ -1,12 +1,12 @@
 {
-  "name": "rocket-dark-plus-official",
+  "name": "rocket-dark-plus-theme",
   "displayName": "Rocket Dark+ Official",
   "description": "Rocket Dark+ Official: A sleek and modern dark theme for Visual Studio Code.",
   "keywords": ["theme", "vscode", "Rocket+"],
   "icon": "icon.png",
   "publisher": "samuel-leutner",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.10",
   "engines": {
     "vscode": "^1.78.0"
   },
