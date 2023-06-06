@@ -6,7 +6,7 @@
   "icon": "icon.png",
   "publisher": "samuel-leutner",
   "license": "MIT",
-  "version": "1.0.10",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.78.0"
   },
